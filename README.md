@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone👋, I'm I am Rakibul Islam</h1>
+<h1 align="center">Hi Everyone👋, I'm Rakibul Islam</h1>
 <h3 align="center">A passionate ML & AI developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib3421&label=Profile%20views&color=0e75b6&style=flat" alt="rakib3421" /> </p>

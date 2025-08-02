@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rakibul15-3430@diu.edu.bd**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ei8rpVZwHbf762S2Z4WVDJkPWgk9ru1C/view?usp=sharing](https://drive.google.com/file/d/1ei8rpVZwHbf762S2Z4WVDJkPWgk9ru1C/view?usp=sharing)
+- 📄 You Can see my Resume [https://drive.google.com/file/d/1ei8rpVZwHbf762S2Z4WVDJkPWgk9ru1C/view?usp=sharing](https://drive.google.com/file/d/1ei8rpVZwHbf762S2Z4WVDJkPWgk9ru1C/view?usp=sharing)
 
 - ⚡ Fun fact **I Think I am Funny but reality is i am boring**
 

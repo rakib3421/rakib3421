@@ -3,6 +3,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakib3421&label=Profile%20views&color=0e75b6&style=flat" alt="rakib3421" />
+  <br>
+  <a href="https://github.com/rakib3421"><img src="https://img.shields.io/github/followers/rakib3421?label=Follow%20Me!&style=social" alt="GitHub Follow"></a>
 </p>
 
 <p align="center">
@@ -16,18 +18,26 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Currently working on:**  
-  Large LLM Model optimization for efficient use on low-resource systems  
-  *(Ask me about it!)*
+  Optimizing Large LLM Models for low-resource systems  
+  <details>
+    <summary><b>Want to know more? Click here!</b></summary>
+    I'm exploring ways to make LLMs run efficiently on edge devices with limited compute power. Think lightweight AI that packs a punch! Ask me about my latest experiments! 🚀
+  </details>
 
 - 🌱 **Learning:**  
-  Exploring LLM Models & diving into Advanced Computer Vision
+  Diving deeper into LLMs & Advanced Computer Vision  
+  <details>
+    <summary><b>Curious about my learning journey?</b></summary>
+    I'm experimenting with Vision Transformers and fine-tuning LLMs for niche applications. Share your favorite resources or let's learn together! 📚
+  </details>
 
 - 🤝 **Open to:**  
   Collaborating on AI & ML projects  
-  Connecting with fellow enthusiasts & learning together!
+  <a href="https://github.com/rakib3421/rakib3421/issues"><img src="https://img.shields.io/badge/Start%20a%20Project-Issue-brightgreen?style=flat-square" alt="Start a Project"></a>
 
 - 💬 **Ask me about:**  
-  `Python`, `Machine Learning`, `Artificial Intelligence`, `Web Development`, `API Creation`
+  `Python`, `Machine Learning`, `Artificial Intelligence`, `Web Development`, `API Creation`  
+  <a href="mailto:rakibul15-3430@diu.edu.bd"><img src="https://img.shields.io/badge/Ask%20Me-Anything-blue?style=flat-square" alt="Ask Me"></a>
 
 - 📫 **Contact:**  
   [rakibul15-3430@diu.edu.bd](mailto:rakibul15-3430@diu.edu.bd)
@@ -39,7 +49,11 @@
   [Google Drive Link](https://drive.google.com/file/d/1ei8rpVZwHbf762S2Z4WVDJkPWgk9ru1C/view?usp=sharing)
 
 - ⚡ **Fun fact:**  
-  I think I’m funny, but reality says otherwise 😅
+  I think I’m funny, but my code’s error messages disagree 😅  
+  <details>
+    <summary><b>Think you can make me laugh?</b></summary>
+    Drop your best tech joke in an <a href="https://github.com/rakib3421/rakib3421/issues">issue</a> and let's see who wins! 😄
+  </details>
 
 ---
 
@@ -65,31 +79,43 @@
 ### 🛠️ My Toolbox
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" title="PyTorch"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" title="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" title="Scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" title="Seaborn"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" title="OpenCV"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" title="Django"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" title="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" title="AWS"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" title="Google Cloud"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" title="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40" title="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" title="Flutter"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" title="Adobe Illustrator"/>
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" title="Chart.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" title="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" title="D3.js"/>
+</p>
+
+---
+
+### 🖼️ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/rakib3421/your-repo-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=your-repo-1&theme=algolia" alt="Project 1"></a>
+  <a href="https://github.com/rakib3421/your-repo-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=your-repo-2&theme=algolia" alt="Project 2"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/rakib3421?tab=repositories"><img src="https://img.shields.io/badge/Explore%20More%20Projects-Explore-blue?style=for-the-badge" alt="Explore Projects"></a>
 </p>
 
 ---
@@ -97,24 +123,35 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib3421&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib3421&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakib3421&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib3421&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib3421&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib3421&theme=algolia" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🎯 Fun Challenges
 
-- ✨ **Guess my favorite ML library!** (Hint: It's powerful for both research and production 🚀)
+- ✨ **Guess my favorite ML library!**  
+  <details>
+    <summary><b>Take a guess!</b></summary>
+    <form>
+      <input type="radio" name="library" value="PyTorch"> PyTorch<br>
+      <input type="radio" name="library" value="TensorFlow"> TensorFlow<br>
+      <input type="radio" name="library" value="Scikit-learn"> Scikit-learn<br>
+      <input type="submit" value="Submit Guess" onclick="alert('Nice try! My favorite is PyTorch for its flexibility in research and production! 😄')">
+    </form>
+  </details>
+
 - 🤖 **Stuck on a bug or ML problem?**  
-  [Open an issue](https://github.com/rakib3421/rakib3421/issues) or ping me on LinkedIn — I love collaborating and helping!
+  <a href="https://github.com/rakib3421/rakib3421/issues"><img src="https://img.shields.io/badge/Open%20an%20Issue-Help-brightgreen?style=flat-square" alt="Open Issue"></a>
+
 - 💡 **Have a cool AI project?**  
-  Let's build something amazing together!
+  <a href="https://github.com/rakib3421/rakib3421/discussions"><img src="https://img.shields.io/badge/Start%20a%20Discussion-Idea-blueviolet?style=flat-square" alt="Start Discussion"></a>
 
 ---
 
@@ -122,4 +159,6 @@
   <b>Thanks for stopping by! 👋</b>
   <br>
   <i>“Code. Learn. Share. Repeat.”</i>
+  <br>
+  <a href="https://github.com/rakib3421"><img src="https://img.shields.io/badge/Star%20My%20Profile-⭐-yellow?style=for-the-badge" alt="Star Profile"></a>
 </p>

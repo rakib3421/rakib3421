@@ -111,8 +111,8 @@
 ### 🖼️ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/rakib3421/AI_ESSAY_COACH"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=your-repo-1&theme=algolia" alt="AI ESSAY REVISION WEBAPP"></a>
-  <a href="https://github.com/rakib3421/Lung_Disease_Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=your-repo-2&theme=algolia" alt="Multiclass lung disease prediction"></a>
+  <a href="https://github.com/rakib3421/AI_ESSAY_COACH"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=AI_ESSAY_COACH&theme=algolia" alt="AI ESSAY REVISION WEBAPP"></a>
+  <a href="https://github.com/rakib3421/Lung_Disease_Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=Lung_Disease_Prediction&theme=algolia" alt="Multiclass lung disease prediction"></a>
 </p>
 <p align="center">
   <a href="https://github.com/rakib3421?tab=repositories"><img src="https://img.shields.io/badge/Explore%20More%20Projects-Explore-blue?style=for-the-badge" alt="Explore Projects"></a>

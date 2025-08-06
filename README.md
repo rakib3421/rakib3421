@@ -111,8 +111,20 @@
 ### 🖼️ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/rakib3421/AI_ESSAY_COACH"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=AI_ESSAY_COACH&theme=algolia" alt="AI ESSAY REVISION WEBAPP"></a>
-  <a href="https://github.com/rakib3421/Lung_Disease_Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=Lung_Disease_Prediction&theme=algolia" alt="Multiclass lung disease prediction"></a>
+  <a href="https://github.com/rakib3421/AI_ESSAY_COACH"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=AI_ESSAY_COACH&theme=algolia" alt="AI Essay Revision Webapp"></a>
+  <a href="https://github.com/rakib3421/Lung_Disease_Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=Lung_Disease_Prediction&theme=algolia" alt="Multiclass Lung Disease Prediction"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/rakib3421/Music_genre_classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=Music_genre_classification&theme=algolia" alt="Music Genre Classification"></a>
+  <a href="https://github.com/rakib3421/MIX_MASTER_AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=MIX_MASTER_AI&theme=algolia" alt="Mix Master AI"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/rakib3421/personal_portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=personal_portfolio&theme=algolia" alt="Personal Portfolio"></a>
+  <a href="https://github.com/rakib3421/Internal_dialouge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=Internal_dialouge&theme=algolia" alt="Internal Dialogue"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/rakib3421/Employee-Management-System-using-python-django"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=Employee-Management-System-using-python-django&theme=algolia" alt="Employee Management System"></a>
+  <a href="https://github.com/rakib3421/Used_car_price_prediction_flask"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=Used_car_price_prediction_flask&theme=algolia" alt="Used Car Price Prediction"></a>
 </p>
 <p align="center">
   <a href="https://github.com/rakib3421?tab=repositories"><img src="https://img.shields.io/badge/Explore%20More%20Projects-Explore-blue?style=for-the-badge" alt="Explore Projects"></a>

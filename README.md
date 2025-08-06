@@ -127,7 +127,10 @@
   <a href="https://github.com/rakib3421/Used_car_price_prediction_flask"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=Used_car_price_prediction_flask&theme=algolia" alt="Used Car Price Prediction"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/rakib3421?tab=repositories"><img src="https://img.shields.io/badge/Explore%20More%20Projects-Explore-blue?style=for-the-badge" alt="Explore Projects"></a>
+  <a href="https://github.com/rakib3421/AI_Avatar_Talking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=AI_Avatar_Talking&theme=algolia" alt="AI Avatar Talking"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/rakib3421/Alcohol_suggestion_app_ai-features"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib3421&repo=Alcohol_suggestion_app_ai-features&theme=algolia" alt="Alcohol Suggestion App"></a>
 </p>
 
 ---
